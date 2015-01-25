@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html class="no-js">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, maximum-scale=1">
+
+  <title>Haquest</title>
+
+  <link href="style.css" rel="stylesheet" media="screen">
+
+  <script>
+    document.documentElement.className =
+    document.documentElement.className.replace("no-js","js");
+  </script>
+
+</head>
+
+<style>
+  .quest#bs-item {
+    background-image: url('img/barbershop - item.jpg');
+    height: 1125px;
+  }
+
+  #bs-item-ch1 {
+    top: 0px;
+    left: 30px;
+    right: 30px;
+    height: 77px;
+  }
+
+  #bs-item-ch2 {
+    top: 165px;
+    left: 30px;
+    right: 260px;
+    height: 55px;
+  }
+
+  #bs-item-ch3 {
+    top: 305px;
+    left: 570px;
+    right: 20px;
+    height: 180px;
+  }
+
+  #bs-item-ch4 {
+    top: 505px;
+    left: 690px;
+    right: 230px;
+    height: 70px;
+  }
+  #bs-item-ch5 {
+    top: 665px;
+    left: 570px;
+    right: 130px;
+    height: 140px;
+  }
+</style>
+
+<body>
+  <div class="page-wrap">
+    <form class="quest" id="bs-item">
+      <fieldset class="quest__challenge" id="bs-item-ch1">
+        <div class="quest__question-box quest__question-box--bottom-right quest__question-box--outer">
+          <label class="quest__label">Это что за элемент?</label>
+          <div class="quest__select-wrap">
+            <select class="quest__select" name="ch1">
+              <option value="0" selected></option>
+              <option value="navigation">&lt;navigation&gt;</option>
+              <option value="header">&lt;header&gt;</option>
+              <option value="hat">&lt;hat&gt;</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+      <fieldset class="quest__challenge" id="bs-item-ch2">
+        <div class="quest__question-box quest__question-box--bottom-right quest__question-box--outer">
+          <label class="quest__label">Дайте название этому блоку</label>
+          <div class="quest__select-wrap">
+            <select class="quest__select" name="ch2">
+              <option value="0" selected></option>
+              <option value="bread">хлебные крошки</option>
+              <option value="wafer">вафельные плитки</option>
+              <option value="candy">конфетная дорожка</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+      <fieldset class="quest__challenge" id="bs-item-ch3">
+        <div class="quest__question-box quest__question-box--bottom-right quest__question-box--outer">
+          <label class="quest__label">Выберите правильный тег</label>
+          <div class="quest__select-wrap">
+            <select class="quest__select" name="ch3">
+              <option value="0" selected></option>
+              <option value="div">&lt;div&gt;</option>
+              <option value="p">&lt;p&gt;</option>
+              <option value="section">&lt;section&gt;</option>
+              <option value="span">&lt;span&gt;</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+      <fieldset class="quest__challenge" id="bs-item-ch4">
+        <div class="quest__question-box quest__question-box--bottom-left quest__question-box--outer">
+          <label class="quest__label">Выберите правильный тег</label>
+          <div class="quest__select-wrap">
+            <select class="quest__select" name="ch4">
+              <option value="0" selected></option>
+              <option value="button">&lt;button&gt;</option>
+              <option value="btn">&lt;btn&gt;</option>
+              <option value="a">&lt;a&gt;</option>
+              <option value="select">&lt;select&gt;</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+      <fieldset class="quest__challenge" id="bs-item-ch5">
+        <div class="quest__question-box quest__question-box--bottom-right quest__question-box--outer">
+          <label class="quest__label">Выберите последовательность тегов</label>
+          <div class="quest__select-wrap">
+            <select class="quest__select" name="ch3">
+              <option value="0" selected></option>
+              <option value="div">div > (a + a + a ...)</option>
+              <option value="p">(p > span) + (p > span) + (p > span) ...</option>
+              <option value="ul">ul > li</option>
+            </select>
+          </div>
+        </div>
+      </fieldset>
+    </form>
+  </div>
+  <script src="bower_components/zepto/zepto.min.js"></script>
+  <script src="scripts.js"></script>
+</body>
+</html>
