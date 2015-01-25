@@ -1,0 +1,1986 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"company-thumb-1.png	w:124 h:44"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"ma",
+				"main-img-keys.png	w:220 h:140"
+			],
+			[
+				"z",
+				"z_search"
+			],
+			[
+				"007",
+				"007-2-Company-v2.jpg	w:940 h:2721"
+			],
+			[
+				"0",
+				"002-2-Project-v3.jpg	w:940 h:3637"
+			],
+			[
+				"a",
+				"article-slider-bg.png	w:1 h:174"
+			],
+			[
+				"nvs",
+				"nvs-complex-1.jpg	w:184 h:118"
+			],
+			[
+				"comms",
+				"comm-subsection	Comment - Subsection comment"
+			],
+			[
+				"comm",
+				"comm-subsection	Comment - Subsection comment"
+			],
+			[
+				"ne",
+				"news-item/"
+			],
+			[
+				"slide",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"s",
+				"nyroModal.css"
+			],
+			[
+				"e",
+				"e	prevent-default"
+			],
+			[
+				"ha",
+				"hasClass  (function)"
+			],
+			[
+				"p",
+				"postcards/"
+			],
+			[
+				"c_gre",
+				"c_gren_border_consult"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"b",
+				"bg_consult.png	w:131 h:164"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"scroll",
+				"scrollTop  (function)"
+			],
+			[
+				"bg",
+				"bg_gray"
+			],
+			[
+				"eq",
+				"equal"
+			],
+			[
+				"c_g",
+				"c_gray_lightest"
+			],
+			[
+				"te",
+				"temp/"
+			],
+			[
+				"fz",
+				"fz_small"
+			],
+			[
+				"key",
+				"keypress	.keypress()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"remove",
+				"removeClass  (function)"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"focu",
+				"focusout	.focusout()"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"fz_",
+				"fz_base"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"v",
+				"view-on-map.png	w:65 h:63"
+			],
+			[
+				"tr",
+				"trigger	.trigger()"
+			],
+			[
+				"comm-s",
+				"comm-subsection	Comment - Subsection comment"
+			],
+			[
+				"comm-sec",
+				"comm-section-header	Comment - Section header comment"
+			],
+			[
+				"c_",
+				"c_gray_border"
+			],
+			[
+				"TO",
+				"toggleClass  (function)"
+			],
+			[
+				"sl",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"toggl",
+				"toggleClass  (function)"
+			],
+			[
+				"ban",
+				"banner-news"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"004",
+				"004-2-News-item-v2.jpg	w:940 h:4881"
+			],
+			[
+				"t",
+				"temp/"
+			],
+			[
+				"ex",
+				"ex	extend"
+			],
+			[
+				"hvr",
+				"hvr	hover-states"
+			],
+			[
+				"nav",
+				"nav-styl	nav"
+			],
+			[
+				"new",
+				"news-thumb_2.jpg	w:323 h:213"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"CIT-macb",
+				"cit-macbook-iphone-ipad.jpg	w:1280 h:853"
+			],
+			[
+				"co",
+				"counter-reset"
+			],
+			[
+				"n",
+				"novostroiki-otzyvy.html"
+			],
+			[
+				"no",
+				"novostroiki-otzyvy.html"
+			],
+			[
+				"w",
+				"blue-works-1280.jpg	w:960 h:340"
+			],
+			[
+				"blue-mo",
+				"blue-modal-320.jpg	w:320 h:544"
+			],
+			[
+				"l",
+				"label-mother.jpg	w:427 h:100"
+			],
+			[
+				"mod",
+				"modal.js"
+			],
+			[
+				"togg",
+				"toggleClass  (function)"
+			],
+			[
+				"f",
+				"fixmenu.html"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"i",
+				"intro-1280-new.jpg	w:960 h:1631"
+			],
+			[
+				"colo",
+				"color-hvr"
+			],
+			[
+				"novo",
+				"novostroiki-otzyvy.html"
+			],
+			[
+				"novos",
+				"novostroiki-infrastruktura.html"
+			],
+			[
+				"remov",
+				"removeClass  (function)"
+			],
+			[
+				"hs",
+				"hasClass  (function)"
+			],
+			[
+				"foo",
+				"footer_height"
+			],
+			[
+				"col",
+				"column_offset"
+			],
+			[
+				"blue-case",
+				"blue-case-320.jpg	w:320 h:710"
+			],
+			[
+				"blue-wo",
+				"blue-works-320.jpg	w:320 h:872"
+			],
+			[
+				"blue-in",
+				"blue-index-menu-320.jpg	w:320 h:1084"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"__item-t",
+				"__item-title"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"tim",
+				"setTimeout"
+			],
+			[
+				"h",
+				"hdr-sldr-1.jpg	w:1120 h:738"
+			],
+			[
+				"btn",
+				"btn"
+			],
+			[
+				"__",
+				"__title"
+			],
+			[
+				"__timeta",
+				"__timetable-item"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"scrol",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"bl",
+				"blue-case1-1280_01.jpg	w:940 h:361"
+			],
+			[
+				"icon_",
+				"icon_diamond.png	w:140 h:53"
+			],
+			[
+				"this",
+				"thisSlider"
+			],
+			[
+				"gl_t",
+				"gl_footer.less"
+			],
+			[
+				"gl-sl",
+				"gl-slider.less"
+			],
+			[
+				"content",
+				"content-box"
+			],
+			[
+				"su",
+				"subMenu"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"left",
+				"padding-left"
+			],
+			[
+				"outer",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"re",
+				"removeClass  (function)"
+			],
+			[
+				"ca",
+				"callbackType"
+			],
+			[
+				"pr",
+				"projects3.jpg	w:353 h:810"
+			],
+			[
+				"ass",
+				"!assets/"
+			],
+			[
+				"pro",
+				"promo_house.png	w:500 h:344"
+			],
+			[
+				"tts-ma",
+				"tts-material.less"
+			],
+			[
+				"idn_to_",
+				"idn_to_unicode"
+			],
+			[
+				"sc",
+				"scrollspy.js"
+			],
+			[
+				"mo",
+				"modal.js"
+			],
+			[
+				"fo",
+				"jquery.form.js"
+			],
+			[
+				"m",
+				"misc_office.jpg	w:467 h:350"
+			],
+			[
+				"bank_",
+				"bank_mc.jpg	w:168 h:101"
+			],
+			[
+				"ba",
+				"bank_visa.jpg	w:168 h:101"
+			],
+			[
+				"bank_l",
+				"bank_logo_vtb.png	w:187 h:68"
+			],
+			[
+				"ter",
+				"terr_slides1.jpg	w:1090 h:137"
+			],
+			[
+				"g",
+				"terr_gerb.jpg	w:90 h:136"
+			],
+			[
+				"po",
+				"port_sm1.jpg	w:362 h:200"
+			],
+			[
+				"r",
+				"repeat"
+			],
+			[
+				"tts-b",
+				"tts-business.less"
+			],
+			[
+				"tts-",
+				"tts-intro.less"
+			],
+			[
+				"bg-m",
+				"bg-middle_2.jpg	w:1900 h:372"
+			],
+			[
+				"ic",
+				"icon_book.png	w:40 h:35"
+			],
+			[
+				"remi",
+				"removeClass  (function)"
+			],
+			[
+				"ad",
+				"addClass  (function)"
+			],
+			[
+				"o-",
+				"ov-a	overflow: auto;"
+			],
+			[
+				"mouse",
+				"mouseleave	.mouseleave()"
+			],
+			[
+				"clo",
+				"closest  (function)"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"cu",
+				"cur-d	cursor: default;"
+			],
+			[
+				"ra-form-",
+				"ra-form-option.less"
+			],
+			[
+				"ra-f",
+				"ra-form-inner.less"
+			],
+			[
+				"moda",
+				"modalWindow"
+			],
+			[
+				"pos",
+				"pos-s	position: static;"
+			],
+			[
+				"ra-m",
+				"ra-modal-select.less"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ss",
+				"Set Syntax: HTML"
+			],
+			[
+				"commen",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"as",
+				"ASCII Decorator: Generate Font Test"
+			],
+			[
+				"ascii",
+				"ASCII Decorator: Generate Font Test"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"autofo",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"togl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toglint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"tog lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"aut",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"s",
+				"SFTP: Edit Server…"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"SFTP",
+				"SFTP: Setup Server…"
+			],
+			[
+				"ever",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"Gi",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"on",
+				"Snippet: .on()"
+			],
+			[
+				"usr",
+				"Preferences: Settings - User"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - Default"
+			],
+			[
+				"predawn",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"dat",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"data",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"ss s",
+				"Set Syntax: Stylus"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"nav",
+				"Snippet: nav"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key bind",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key b",
+				"Preferences: InsertDate Keybindings - Default"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snip",
+				"Snippet: extend"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"key bi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"csslint",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"csslin",
+				"Preferences: CSSLint Settings – Default"
+			],
+			[
+				"subli",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"css",
+				"Preferences: CSSLint Settings – Default"
+			],
+			[
+				"cssl",
+				"Preferences: CSSLint Settings – Default"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"new ",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: andrey-nav"
+			],
+			[
+				"Snippet: co",
+				"Snippet: andrey-console-log"
+			],
+			[
+				"c",
+				"Calculate"
+			],
+			[
+				"cal",
+				"Calculate"
+			],
+			[
+				"sub",
+				"Sublimall: Upload"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet",
+				"Snippet: andrey-bg-rgba"
+			],
+			[
+				"inse",
+				"InsertDate: Custom"
+			],
+			[
+				"pref",
+				"Preferences: InsertDate Keybindings - Default"
+			],
+			[
+				"pre",
+				"Preferences: InsertDate Keybindings - Default"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"",
+				"Clipboard Manager: Previous"
+			],
+			[
+				"cssli",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"lint",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"linte",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"codein",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"codin",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ls",
+			"hash -r",
+			"hash -к",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrey/Desktop/haquest"
+	],
+	"file_history":
+	[
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/tabs.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/global/type.styl",
+		"/Users/andrey/0hellmaket/0local-repo/bootstrap-3.2.0/less/mixins/grid.less",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/content-links.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/company-v3.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/novostroiki-kvartiry-ceny.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/novostroiki-infrastruktura.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/news.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/main.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/css/style.min.css",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/css/style.css",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/company.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/company-v2.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/novostroiki-otzyvy.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/novostroiki.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/allstroy.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/all-companies.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/article.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_article.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/search-result.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_news-item.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/news-item.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/aside.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/helper/aalexeevMixins.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/styles.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!assets/ad_placements/Новостройка--отзывы",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_search-result.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/news-item.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/news-feed.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_novostroiki-otzyvy.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/hire-purchase.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_novostroiki-infrastruktura.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/box.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/headphones.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_novostroiki-kvartiry-ceny.html",
+		"/Users/andrey/0hellmaket/_templ-less/src/img/sprite/!sprite.less.mustache",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!assets/ad_placements/Новостройка-инфраструктура",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_novostroiki.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/index.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_company-v2.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_allstroy.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_main.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadv_company.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/Gruntfile.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/banners.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/cont-through.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/noadw_news.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/table-striped.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/metro.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/global/base.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/tasks.TODO",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/metro.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/main.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/content-banner.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!assets/Remodal-0.4.1/CONTRIBUTING.md",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/collapse-collapsed.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/metro-variables.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/ui-search.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/nvs-card.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/checkbox.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/ie/old-ie.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!assets/https   easylist-downloads.adblockplus.org easylist.txt недоступен.txt",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/search.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/gallery.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/global/var.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/close-hvr.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/metro.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/ui-slider.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/ui-city-select.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/metro-header.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/qwerty.json",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/favorite.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!assets/webfontkit-20141202-053250/stylesheet.css",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!assets/tap-master/dist/tap.angular.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/!ai/metro-sm-blue.ai",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/popup.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/citySelect.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/location-avto.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/global/layout.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/fixedNav.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/!ai/metro.ai",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/metro-white.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/metro-red.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/metro-purple.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/metro-orange.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/metro-green.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/metro-blue.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/popup.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!page-template.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/piggy-bank.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/toggleLikes.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/toggleContent.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/popover.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/tabs.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/slider.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/showMore.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/searchForm.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/dropdown.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/app/consult.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/testbox.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/nvs-collapse.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/nvs-complex.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/btn.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/plugins/collapse.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/global/responsive.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/collapse.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/global/grid.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/company-thumb.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/main-navigate.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/helper/image.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/nvs-nav.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/promo.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/company-card.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/small-search.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/intro.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/vnov.sublime-project",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/allstroy-intro.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/news-thumb.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/js/plugins/jquery.remodal.min.js",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/newsline.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/news-tabs.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/main-v2.html",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/search-tabs.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/search-results.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/styl/blocks/search-dropdown.styl",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/!ai/search-control.ai",
+		"/Users/andrey/0hellmaket/vnovostrojke/src/!svg-src/search-list-sm.svg",
+		"/Users/andrey/0hellmaket/vnovostrojke/package.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"/Users/andrey/0hellmaket/vnovostrojke/src",
+			"/Users/andrey/0hellmaket/glukhanko/src",
+			"/Users/andrey/0hellmaket/vnovostrojke/src",
+			"/Users/andrey/0hellmaket/glukhanko/src",
+			"/Users/andrey/0hellmaket/vnovostrojke/src",
+			"/Users/andrey/0hellmaket/vnovostrojke/",
+			"/Users/andrey/0hellmaket/vnovostrojke/src/styl",
+			"/Users/andrey/0hellmaket/glukhanko/src",
+			"/Users/andrey/0hellmaket/vnovostrojke/src",
+			"/Users/andrey/0hellmaket/glukhanko/src/less",
+			"/Users/andrey/0hellmaket/vnovostrojke/src",
+			"/Users/andrey/0hellmaket/glukhanko/src",
+			"/Users/andrey/Localhost/htdocs/mazapark/",
+			"/Users/andrey/Localhost/htdocs/mazapark/bitrix/templates",
+			"/Users/andrey/Localhost/htdocs/mazapark/",
+			"/Users/andrey/Localhost/htdocs/mazapark/frontend/styles",
+			"/Users/andrey/0hellmaket/glukhanko/src",
+			"/Users/andrey/Localhost/htdocs/mazapark/frontend/styles",
+			"/Users/andrey/Localhost/htdocs/mazapark/bitrix/templates",
+			"/Users/andrey/Localhost/htdocs/mazapark/frontend",
+			"/Users/andrey/0hellmaket/tts-2/src",
+			"/Users/andrey/0hellmaket/p8nt/app",
+			"/Users/andrey/0hellmaket/red_album/src",
+			"/Users/andrey/0hellmaket/p8nt/app",
+			"/Users/andrey/0hellmaket/red_album/src",
+			"/Users/andrey/0hellmaket/p8nt/app,/Users/andrey/0hellmaket/red_album/src",
+			"/Users/andrey/0hellmaket/p8nt/app,/Users/andrey/0hellmaket/red_album",
+			"/Users/andrey/0hellmaket/p8nt/app",
+			"/Users/andrey/0hellmaket/red_album/src",
+			"/Users/andrey/0hellmaket/p8nt/",
+			"/Users/andrey/0hellmaket/p8nt/app/",
+			"/Users/andrey/0hellmaket/p8nt/app/assets/stylesheets/shop",
+			"/Users/andrey/0hellmaket/p8nt/app",
+			"/Users/andrey/Desktop/0hellmaket/p8nt/app",
+			"/Users/andrey/Desktop/0hellmaket/ORBITA/src",
+			"/Users/andrey/Desktop/0hellmaket/ORBITA/src/less",
+			"/Users/andrey/Desktop/0hellmaket/ORBITA/src",
+			"<open folders>",
+			"/Users/andrey/Desktop/0hellmaket/p8nt/app/",
+			"/Users/andrey/Desktop/0hellmaket/p8nt/app/assets/stylesheets",
+			"/Users/andrey/Desktop/0hellmaket/ORBITA/src",
+			"/Users/andrey/Desktop/0hellmaket/ORBITA",
+			"/Users/andrey/Desktop/0hellmaket/p8nt/public/nik",
+			"/Users/andrey/Desktop/0hellmaket/ORBITA/src",
+			"/Users/andrey/Desktop/0hellmaket/ORBITA",
+			"/Users/andrey/Desktop/0hellmaket/p8nt"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"130000",
+			"80",
+			"137",
+			"97",
+			"128",
+			"</tr>",
+			"$loader",
+			"      $loader",
+			"cont-through--top",
+			"Map,",
+			"bnr-news",
+			"<i class=\"icon-metro icon-metro-orange\">м.</i> Улица Дыбенко",
+			"m4",
+			"js-checkbox-slave-metro",
+			"m5",
+			"msk-reg-1",
+			"js-checkbox-slave-metro",
+			"metro ",
+			"009a49",
+			"metro metro-msk-",
+			"fill=\"#ccc\"",
+			"ccc",
+			"'",
+			"metro",
+			"comment__popup popup",
+			"'click'",
+			"click",
+			"Click",
+			"click",
+			"main",
+			"company-v3",
+			"more-results",
+			"ul-next",
+			"exclusive-",
+			"Северный город",
+			"company-thumb__title",
+			"tab2",
+			"tab1",
+			"nvs-companies-",
+			"nvs-companies",
+			"tab1",
+			"tabs__item",
+			" tabs__item--padding",
+			"1.4 - 2.6",
+			"collapse__body",
+			"nvs-collapse__body",
+			"20px",
+			"table-striped",
+			"&__",
+			"nvs-collapse__title-link",
+			"class=\"collapsed\"",
+			"data-toggle=\"collapse\"",
+			"collapseThree",
+			"headingThree",
+			"collapseTwo",
+			" ",
+			"headingTwo",
+			" ",
+			"collapseOne",
+			"headingOne",
+			"accordion",
+			"nvs-collapse__content",
+			"panel-body",
+			"panel-collapse",
+			"panel-body",
+			"panel-title",
+			"panel-heading",
+			"nvs-collapse__item",
+			"panel panel-default",
+			"accordion",
+			"collapse-top-companies-1",
+			"panel-collapse",
+			"panel-title",
+			"panel-heading",
+			"panel panel-default",
+			"headingThree",
+			"headingTwo",
+			"headingOne",
+			"collapseThree",
+			"collapseTwo",
+			"collapseOne",
+			"accordion",
+			"before",
+			"after",
+			"gradient_arg",
+			"degree",
+			"lightness",
+			"saturation",
+			"colors_count",
+			"dotted",
+			"<!-- Layout example -->",
+			"main-tab",
+			"#main-",
+			"keys",
+			"h3",
+			"55",
+			"<a href=\"\"",
+			"promo",
+			"111 ",
+			"green-ul",
+			"4px",
+			"down",
+			"id=\"tab",
+			"href=\"#tab",
+			"tab",
+			"rgba(250, 0, 0, .5)",
+			"company-v2",
+			"content-nav",
+			"discuss",
+			"href=\"\"",
+			"renameMe",
+			"search-results",
+			"search-111res",
+			"search-",
+			"search-111results__label",
+			"nvsrd",
+			"search-result",
+			"search-111results",
+			"111results",
+			"search-result",
+			"search-results",
+			"search-result",
+			"h1",
+			"article",
+			"<meta name=\"viewport\" content=\"width=1020px\">",
+			"Новости",
+			"<dt>",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"cont-through--mt0",
+			"comment__popup popup js-popup",
+			"<meta name=\"viewport\" content=\"width=device-width, maximum-scale=1\">",
+			"class=\"bnr-news\"",
+			"<br><a href=\"#\" class=\"link-small\">Нашли ошибку?</a>",
+			"<meta name=\"viewport\" content=\"width=1020px\">",
+			"<link rel=\"stylesheet\" href=\"css/old-ie.css\">",
+			"<link href=\"css/grunticon-icons.fallback.css\" rel=\"stylesheet\">",
+			"grunticon([\"css/grunticon-icons.data.svg.css\", \"css/grunticon-icons.data.png.css\", \"css/grunticon-icons.fallback.css\"]);",
+			"<link rel=\"stylesheet\" href=\"css/old-ie.min.css\">",
+			"<link rel=\"stylesheet\" href=\"css/old-ie.css\">",
+			"<link href=\"css/grunticon-icons.fallback.min.css\" rel=\"stylesheet\">",
+			"grunticon([\"css/grunticon-icons.data.svg.min.css\", \"css/grunticon-icons.data.png.min.css\", \"css/grunticon-icons.fallback.min.css\"]);",
+			"",
+			"document.write('<script src=\"js/lib/jquery-1.11.1.min.js\"><\\/script>');",
+			"<!--[if lte IE 8 ]> <html class=\"old-ie no-js\"> <![endif]-->",
+			"<script src=\"js/lib/html5shiv.min.js\"></script>\n  <link rel=\"stylesheet\" href=\"css/old-ie.css\">",
+			"<!--[if (gt IE 8)|!(IE)]><!--> <html class=\"no-js\"> <!--<![endif]-->",
+			"<!--[if lt IE 8 ]> <html class=\"old-ie no-js\"> <![endif]-->\n<!--[if (gt IE 9)|!(IE)]><!--> <html class=\"no-js\"> <!--<![endif]-->",
+			"c_base",
+			"<div class=\"container container--relative container--modal-success\">\n          <a href=\"#\" class=\"modal__close btn-close\" data-dismiss=\"modal\">&times;</a>\n          <p class=\"modal__header modal__header--h2\">Ваша заявка отправлена!</p>",
+			"<a href=\"#\" class=\"header__btn header__btn--no-mobile\" data-toggle=\"modal\" data-target=\"#modal-contact\">Заказать</a>",
+			"<a href=\"modal.html\" class=\"header__btn header__btn--no-mobile\">Заказать</a>\n        <a href=\"order.html\" class=\"header__btn header__btn--mobile\">Заказать</a>",
+			"<a href=\"order.html\" class=\"header__btn\">Заказать</a>",
+			"color c_muted",
+			"<a href=\"novostroiki.html\" class=\"nvs-nav__link\">Информация</a>",
+			"<meta name=\"viewport\" content=\"width=device-width, maximum-scale=1\">",
+			"icon-next",
+			"<html lang=\"ru\" class=\"no-js no-mobile\">",
+			"<html lang=\"ru\" class=\"no-js\">",
+			"<a href=\"modal.html\" class=\"header__btn\">Заказать</a>",
+			"bdrs_base",
+			"border-radius bd_base",
+			"c_gray_border",
+			"<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,700,300,600,400&subset=latin,cyrillic' rel='stylesheet' type='text/css'>",
+			"&:extend(.trz);",
+			"&:extend(.tdn);",
+			"<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,300,600,400&subset=latin,cyrillic' rel='stylesheet' type='text/css'>",
+			"<img src=\"img/temp/nvst-logo.jpg\" alt=\"\" class=\"novostroiki-header__img\">",
+			"footer-bottom__contacts-link",
+			"c_gray_light",
+			"<a href=\"index.html\" class=\"header__logo main-logo\">ВНовостройке</a>",
+			"<svg class=\"hidden-xs\" xmlns=\"http://www.w3.org/2000/svg\" width=\"31\" height=\"36\" viewBox=\"0 0 31 36\"><path d=\"M9.9 21.3c.7.6 ",
+			"http://www.w3.org/2000/svg",
+			"<a href=\"#body\" class=\"ftr-logo\">Glukhanko design studio\n      <svg class=\"visible-xs\" xmlns=\"http://www.w3.org/2000/svg\" width=\"23\" height=\"12\" viewBox=\"0 0 39.4 21.8\" enable-background=\"new 0 0 39.4 21.8\"><path stroke=\"#000\" stroke-width=\"3\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" fill=\"none\" d=\"M2.1 19.7L19.7 2.1M19.7 2.1l17.6 17.6\"/></svg>",
+			"<svg class=\"hidden-xs\" xmlns=\"http://www.w3.org/2000/svg\" width=\"31\" height=\"36\" viewBox=\"0 0 31 36\"><path d=\"M9.9 21.3c.7",
+			"<a href=\"#\" class=\"header__hamburger-btn\" id=\"toggleHeaderMenu\"></a>",
+			"<div class=\"header__main\" id=\"headerMenu\">",
+			"      </div>\n<a href=\"#\" class=\"header__hamburger-btn\"></a>",
+			"<a href=\"contact.html\" class=\"nav__link\">Контакты</a></li>\n<li class=\"nav__item\"><a href=\"blog.html\" class=\"nav__link\">Блог</a></li>",
+			"<a href=\"#body\" class=\"ftr-logo\">Glukhanko design studio",
+			"<a href=\"#\" class=\"btn-close\">\n          <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"31.8\" height=\"31.9\" viewBox=\"0 0 31.8 31.9\"><path d=\"M17.3 16L31.5 1.7c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0L15.9 14.6 1.7.3C1.3-.1.7-.1.3.3c-.4.4-.4 1 0 1.4L14.5 16 .3 30.2c-.4.4-.4 1 0 1.4.2.2.4.3.7.3.3 0 .5-.1.7-.3l14.2-14.3 14.2 14.3c.2.2.4.3.7.3.3 0 .5-.1.7-.3.4-.4.4-1 0-1.4L17.3 16z\"/></svg>\n        </a>",
+			"<body id=\"body\">",
+			"<a href=\"index.html\" class=\"header__logo main-logo\">Glukhanko design studio</a>",
+			"<h1 class=\"h1 page-panel__hdr\">Академия безопасности</h1>",
+			"<div class=\"pull-right\">",
+			"<div class=\"pull-left\">",
+			"<a href=\"#\" class=\"header__logo main-logo\">Glukhanko design studio</a>",
+			"<li class=\"nav__item\"><a href=\"contact.html\" class=\"nav__link\">Контакты</a></li>",
+			"<li class=\"nav__item\"><a href=\"info.html\" class=\"nav__link\">Информация</a></li>",
+			"<li class=\"nav__item\"><a href=\"works.html\" class=\"nav__link\">Портфолио</a></li>",
+			"@ar",
+			"8-800-5000-846",
+			"<li class=\"modal-select__item js-modal-select-item\">",
+			"col col4",
+			"shortcut-item",
+			"<textarea class=\"comment__input-textarea js-zoning-bottom-add-product\"",
+			"js-zoning-bottom-add-product",
+			"zoning-bottom-form__",
+			"class=\"$1  $3\"",
+			"class=\"$1 $3\"",
+			"class=\"$1 ",
+			"class=\"$1\\s",
+			"class=\"$1",
+			"class=\"$1 ",
+			"class=\"$1\\s",
+			"class=\"$1 ",
+			"class=\"$1\\s",
+			"class=\"\\s",
+			"class=\"$1\\s",
+			"faater-menu__$1",
+			"faater-menu__\\1",
+			": $1",
+			": 222 $1",
+			": $1",
+			": class=\"$1\\s$2\"",
+			"class=\"\\S*\\s\\S*\"",
+			"__cart-icon",
+			"a href=\"#\"",
+			"src=\"http://p8nt.ru/system",
+			"src=\"//p8nt.ru/system",
+			"event-badge",
+			"dropdown",
+			"<a href=\"account-orders.html\" class=\"header-top__account-link  header-top__account-link--cabinet\">Личный кабинет</a>",
+			"<a href=\"account-orders\" class=\"header-top__account-link  header-top__account-link--cabinet\">Личный кабинет</a>",
+			"../img",
+			"class=\"form__top-close-btn  js-modal-form-close\">Закрыть</a>",
+			"<div class=\"modal fade modal-form-popup\"",
+			"url('/assets/",
+			"2010",
+			"tabs-grid",
+			"$0 required",
+			"<input $0 required",
+			"<input $0 qe>",
+			"<input $1 232>",
+			"<input $ req>",
+			"<input [^>]* required>",
+			"<textarea name=\"ask-msg\" id=\"ask-msg\" class=\"form__input  form__input--textarea  form__input--placeholder\" placeholder=\"Введите текст вопроса\" required>",
+			"<input type=\"text\" class=\"form__input  form__input--text  form__input--placeholder  js-mask-phone\" id=\"ask-phone\" name=\"ask-phone\" placeholder=\"+7 ( ХХХ ) ХХХ - ХХ - ХХ\" required>",
+			"<input type=\"text\" class=\"form__input  form__input--text  form__input--placeholder\" id=\"ask-email\" name=\"ask-email\" placeholder=\"Укажите e-mail для ответа\" required>",
+			"<input type=\"text\" class=\"form__input  form__input--text  form__input--placeholder\" id=\"ask-name\" name=\"ask-name\" placeholder=\"Введите ФИО, пожалуйста\" required>",
+			"form--short",
+			"Ирочка",
+			"  <link href=\"css/style.min.css\" rel=\"stylesheet\" media=\"screen\">\n  <meta name=\"format-detection\" content=\"telephone=no\">",
+			"form__input--textarea  form__input--placeholder\" placeholder=\"Введите текст вопроса\"></textarea>",
+			"<a href=\"#\" class=\"header-main__btn  btn  btn-sm  btn-success\" id=\"btn-form-ask\">Спросить у специалиста</a>",
+			"modal-success",
+			"text-right\">\n              <a href=\"#\" class=\"header-top__account-link\">Личный кабинет</a>",
+			"<div class=\"col-xs-6",
+			"<h2 class=\"header-main__logo\">Удостоверяющий центр Орбита</h2>",
+			"class=\"header-main__logo\">Удостоверяющий центр Орбита</h1>",
+			"form__modal--centered",
+			"<li class=\"nav__list-item\"><a href=\"service.html\" class=\"nav__link\">Услуги</a></li>",
+			"<li class=\"nav__list-item\"><a href=\"company.html\" class=\"nav__link\">Компания</a></li>",
+			"<li class=\"nav__list-item\"><a href=\"contacts.html\" class=\"nav__link\">Контакты</a></li>",
+			"<li class=\"nav__list-item\"><a href=\"documents.html\" class=\"nav__link\">Документы</a></li>",
+			"<li class=\"nav__list-item\"><a href=\"downloads.html\" class=\"nav__link\">Загрузки</a></li>",
+			"<span class=\"header-main__phone\">8 (861) 201-01-44</span>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clipboard_manager":
+	{
+		"height": 0.0
+	},
+	"output.csslint_result_view":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "haquest.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"table",
+				"src/styl/blocks/table-striped.styl"
+			],
+			[
+				"cont-",
+				"src/styl/blocks/cont-through.styl"
+			],
+			[
+				"asi",
+				"src/styl/blocks/aside.styl"
+			],
+			[
+				"news-ite",
+				"src/news-item.html"
+			],
+			[
+				"hire-",
+				"src/styl/blocks/hire-purchase.styl"
+			],
+			[
+				"news",
+				"src/news.html"
+			],
+			[
+				"index",
+				"src/index.html"
+			],
+			[
+				"asid",
+				"src/styl/blocks/aside.styl"
+			],
+			[
+				"box",
+				"src/styl/blocks/box.styl"
+			],
+			[
+				"banne",
+				"src/styl/blocks/banners.styl"
+			],
+			[
+				"tabs",
+				"src/styl/blocks/tabs.styl"
+			],
+			[
+				"all",
+				"src/allstroy.html"
+			],
+			[
+				"metroht",
+				"src/metro.html"
+			],
+			[
+				"conten",
+				"src/styl/blocks/content-links.styl"
+			],
+			[
+				"com3",
+				"src/company-v3.html"
+			],
+			[
+				"comp3",
+				"src/company-v3.html"
+			],
+			[
+				"ind",
+				"src/index.html"
+			],
+			[
+				"nvs-ca",
+				"src/styl/blocks/nvs-card.styl"
+			],
+			[
+				"sear",
+				"src/search-result.html"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"checkbox",
+				"src/styl/blocks/checkbox.styl"
+			],
+			[
+				"ui-search",
+				"src/ui-search.html"
+			],
+			[
+				"metro",
+				"src/styl/blocks/metro.styl"
+			],
+			[
+				"style",
+				"src/styl/styles.styl"
+			],
+			[
+				"sty",
+				"src/css/style.css"
+			],
+			[
+				"var",
+				"src/styl/global/var.styl"
+			],
+			[
+				"metrstyl",
+				"src/styl/blocks/icon-metro.styl"
+			],
+			[
+				"novo",
+				"src/novostroiki.html"
+			],
+			[
+				"ui-searc",
+				"src/ui-search.html"
+			],
+			[
+				"base",
+				"src/styl/global/base.styl"
+			],
+			[
+				"popup",
+				"src/styl/blocks/popup.styl"
+			],
+			[
+				"ui-",
+				"src/ui-city-select.html"
+			],
+			[
+				"inde",
+				"src/index.html"
+			],
+			[
+				"type",
+				"src/styl/global/type.styl"
+			],
+			[
+				"table-s",
+				"src/styl/blocks/table-striped.styl"
+			],
+			[
+				"nvs-coll",
+				"src/styl/blocks/nvs-collapse.styl"
+			],
+			[
+				"coll",
+				"src/!svg-src/collapse-collapsed.svg"
+			],
+			[
+				"colla",
+				"src/!svg-src/collapse.svg"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"aa",
+				"src/styl/helper/aalexeevMixins.styl"
+			],
+			[
+				"nvs-",
+				"src/styl/blocks/nvs-complex.styl"
+			],
+			[
+				"grid",
+				"src/styl/global/grid.styl"
+			],
+			[
+				"img",
+				"src/styl/helper/image.styl"
+			],
+			[
+				"btn",
+				"src/styl/blocks/btn.styl"
+			],
+			[
+				"image",
+				"src/styl/helper/image.styl"
+			],
+			[
+				"sma",
+				"src/styl/blocks/small-search.styl"
+			],
+			[
+				"news-thumb",
+				"src/styl/blocks/news-thumb.styl"
+			],
+			[
+				"newsli",
+				"src/styl/blocks/newsline.styl"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"compa",
+				"src/company-v2.html"
+			],
+			[
+				"kvarti",
+				"src/novostroiki-kvartiry-ceny.html"
+			],
+			[
+				"layout",
+				"src/styl/global/layout.styl"
+			],
+			[
+				"kvart",
+				"src/novostroiki-kvartiry-ceny.html"
+			],
+			[
+				"small",
+				"src/styl/blocks/small-search.styl"
+			],
+			[
+				"intro",
+				"src/styl/blocks/intro.styl"
+			],
+			[
+				"search",
+				"src/ui-search.html"
+			],
+			[
+				"sea",
+				"src/search-result.html"
+			],
+			[
+				"main",
+				"src/main.html"
+			],
+			[
+				"searc",
+				"src/styl/blocks/search-results.styl"
+			],
+			[
+				"lay",
+				"src/styl/global/layout.styl"
+			],
+			[
+				"uisearch",
+				"src/ui-search.html"
+			],
+			[
+				"sim",
+				"src/styl/blocks/similar-objects.styl"
+			],
+			[
+				"no",
+				"src/novostroiki-otzyvy.html"
+			],
+			[
+				"aside",
+				"src/styl/blocks/aside.styl"
+			],
+			[
+				"news-tab",
+				"src/styl/blocks/news-tabs.styl"
+			],
+			[
+				"searchres",
+				"src/styl/blocks/search-result.styl"
+			],
+			[
+				"",
+				"src/styl/blocks/search-results.styl"
+			],
+			[
+				"stcss",
+				"src/css/style.css"
+			],
+			[
+				"stylece",
+				"src/!assets/webfontkit-20141202-053250/stylesheet.css"
+			],
+			[
+				"label",
+				"src/styl/blocks/labels.styl"
+			],
+			[
+				"table-str",
+				"src/styl/blocks/table-striped.styl"
+			],
+			[
+				"lau",
+				"src/!svg-src/laurel.svg"
+			],
+			[
+				"infocard",
+				"src/styl/blocks/infocard.styl"
+			],
+			[
+				"nvsnav",
+				"src/styl/blocks/nvs-nav.styl"
+			],
+			[
+				"n",
+				"src/styl/blocks/novostroiki-nav.styl"
+			],
+			[
+				"nvsheade",
+				"src/styl/blocks/novostroiki-header.styl"
+			],
+			[
+				"bas",
+				"src/styl/global/base.styl"
+			],
+			[
+				"typ",
+				"src/styl/global/type.styl"
+			],
+			[
+				"ima",
+				"src/styl/helper/image.styl"
+			],
+			[
+				"allstr",
+				"src/allstroy.html"
+			],
+			[
+				"alls",
+				"src/allstroy.html"
+			],
+			[
+				"novos",
+				"src/novostroiki.html"
+			],
+			[
+				"news-fe",
+				"src/styl/blocks/news-feed.styl"
+			],
+			[
+				"article",
+				"src/styl/blocks/article-section.styl"
+			],
+			[
+				"art",
+				"src/article.html"
+			],
+			[
+				"ty",
+				"src/styl/global/type.styl"
+			],
+			[
+				"banner",
+				"src/styl/blocks/banners.styl"
+			],
+			[
+				"remo",
+				"src/styl/vendor/jquery.remodal.css"
+			],
+			[
+				"slider",
+				"src/styl/blocks/article-slider.styl"
+			],
+			[
+				"ot",
+				"src/novostroiki-otzyvy.html"
+			],
+			[
+				"arti",
+				"src/styl/blocks/article-slider.styl"
+			],
+			[
+				"artic",
+				"src/styl/blocks/article-slider.styl"
+			],
+			[
+				"ui-slide",
+				"src/ui-slider.html"
+			],
+			[
+				"speake",
+				"src/!svg-src/speaker.svg"
+			],
+			[
+				"pigg",
+				"src/!svg-src/piggy-bank.svg"
+			],
+			[
+				"allst",
+				"src/allstroy.html"
+			],
+			[
+				"leave",
+				"src/styl/blocks/leave-comment.styl"
+			],
+			[
+				"modal",
+				"src/styl/blocks/modal.styl"
+			],
+			[
+				"stylecss",
+				"src/css/style.css"
+			],
+			[
+				"remoda",
+				"src/styl/vendor/jquery.remodal.css"
+			],
+			[
+				"nvs-com",
+				"src/styl/blocks/nvs-complex.styl"
+			],
+			[
+				"tabs-",
+				"src/styl/blocks/tabs-vertical.styl"
+			],
+			[
+				"tabssty",
+				"src/styl/blocks/tabs.styl"
+			],
+			[
+				"nvs-nav",
+				"src/styl/blocks/novostroiki-nav.styl"
+			],
+			[
+				"tabs-ver",
+				"src/styl/blocks/tabs-vertical.styl"
+			],
+			[
+				"js",
+				"src/styl/global/js-elements.styl"
+			],
+			[
+				"tab",
+				"src/styl/blocks/tabs.styl"
+			],
+			[
+				"va",
+				"src/styl/global/var.styl"
+			],
+			[
+				"metr",
+				"src/styl/blocks/metro-header.styl"
+			],
+			[
+				"kvar",
+				"src/novostroiki-kvartiry-ceny.html"
+			],
+			[
+				"nav",
+				"src/styl/blocks/novostroiki-nav.styl"
+			],
+			[
+				"bann",
+				"src/styl/blocks/banners.styl"
+			],
+			[
+				"searreslt",
+				"src/search-result.html"
+			],
+			[
+				"banners",
+				"src/styl/blocks/banners.styl"
+			],
+			[
+				"uislider",
+				"src/ui-slider.html"
+			],
+			[
+				"galler",
+				"src/styl/blocks/gallery.styl"
+			],
+			[
+				"ui-sli",
+				"src/ui-slider.html"
+			],
+			[
+				"sliderhtml",
+				"src/ui-slider.html"
+			],
+			[
+				"news-item",
+				"src/styl/blocks/news-item.styl"
+			],
+			[
+				"mai",
+				"src/js/main.js"
+			],
+			[
+				"gal",
+				"src/js/app/gallery.js"
+			],
+			[
+				"showmore",
+				"src/js/app/showMore.js"
+			],
+			[
+				"mainjs",
+				"src/js/main.js"
+			],
+			[
+				"novostr",
+				"src/novostroiki.html"
+			],
+			[
+				"dropdow",
+				"src/js/app/dropdown.js"
+			],
+			[
+				"feat-pa",
+				"src/styl/blocks/feat-panel.styl"
+			],
+			[
+				"respons",
+				"src/styl/global/responsive.styl"
+			],
+			[
+				"feat-panel",
+				"src/styl/blocks/feat-panel.styl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/0hellmaket/p8nt/p8nt.sublime-project"
+			],
+			[
+				"fishi",
+				"~/0hellmaket/fishing/fishing.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 701.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
