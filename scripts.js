@@ -19,7 +19,7 @@ var haQuest = (function() {
 
       $prevBtn.on('click', -1, onNavBtnClicked);
       $nextBtn.on('click', 1, onNavBtnClicked);
-      $resetBtn.on('click', 1, resetForm);
+      $resetBtn.on('click', resetForm);
     }
   };
 
