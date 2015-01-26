@@ -3,10 +3,12 @@ var haQuest = (function() {
   var $fields = $('.quest__challenge');
   var fieldsCount = $fields.length;
   var result = {};
-  var prevBtn = $('#prevBtn');
-  var nextBtn = $('#nextBtn');
-  var resetBtn = $('#resetBtn');
+  var $prevBtn = $('#prevBtn');
+  var $nextBtn = $('#nextBtn');
+  var $resetBtn = $('#resetBtn');
   var $panel = $('#panel');
+
+
 
   me.init = function () {
     if (fieldsCount) {
@@ -15,20 +17,22 @@ var haQuest = (function() {
 
       $fields.find('select').on('change', onSelectChanged);
 
-      prevBtn.on('click', -1, onNavBtnClicked);
-      nextBtn.on('click', 1, onNavBtnClicked);
-      resetBtn.on('click', 1, resetForm);
+      $prevBtn.on('click', -1, onNavBtnClicked);
+      $nextBtn.on('click', 1, onNavBtnClicked);
+      $resetBtn.on('click', 1, resetForm);
     }
   };
 
+
+
   function resetForm() {
-    prevBtn.removeClass('hidden');
-    nextBtn.removeClass('hidden');
-    resetBtn.addClass('hidden');
+    $prevBtn.removeClass('hidden');
+    $nextBtn.removeClass('hidden');
+    $resetBtn.addClass('hidden');
     $panel.find('.results').remove();
 
     $fields.addClass('hidden').eq(0).removeClass('hidden');
-    prevBtn.addClass('disabled');
+    $prevBtn.addClass('disabled');
 
     $fields.find('select').each(function(){
       var name = this.name;
@@ -58,11 +62,11 @@ var haQuest = (function() {
   function goToSelect(curentField, index) {
     var newField = $fields.get(index);
 
-    index === 0 && prevBtn.addClass('disabled');
-    prevBtn.hasClass('disabled') && index > 0 && prevBtn.removeClass('disabled');
+    index === 0 && $prevBtn.addClass('disabled');
+    $prevBtn.hasClass('disabled') && index > 0 && $prevBtn.removeClass('disabled');
 
-    // index === (fieldsCount - 1) && nextBtn.addClass('disabled');
-    // nextBtn.hasClass('disabled') && (index < (fieldsCount - 1)) && nextBtn.removeClass('disabled');
+    // index === (fieldsCount - 1) && $nextBtn.addClass('disabled');
+    // $nextBtn.hasClass('disabled') && (index < (fieldsCount - 1)) && $nextBtn.removeClass('disabled');
 
     if (index < fieldsCount) {
       curentField.classList.add('hidden');
@@ -88,11 +92,10 @@ var haQuest = (function() {
 
 
   function publishResult(result) {
-    console.log(result);
     $fields.addClass('hidden');
-    prevBtn.addClass('hidden');
-    nextBtn.addClass('hidden');
-    resetBtn.removeClass('hidden');
+    $prevBtn.addClass('hidden');
+    $nextBtn.addClass('hidden');
+    $resetBtn.removeClass('hidden');
     var resultString = '<table class="results">';
 
     for (var property in result) {
