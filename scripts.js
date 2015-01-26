@@ -101,7 +101,7 @@ var haQuest = (function() {
     for (var property in result) {
       if (result.hasOwnProperty(property)) {
         var value = result[property] || "нет ответа";
-        console.log(value, typeof value);
+        // console.log(value, typeof value);
         resultString = resultString + '<tr><td>'+property+'</td><td>'+ value +'</td></tr>';
       }
     }
