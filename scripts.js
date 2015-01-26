@@ -31,8 +31,8 @@ var haQuest = (function() {
     $resetBtn.addClass('hidden');
     $panel.find('.results').remove();
 
-    $fields.addClass('hidden').eq(0).removeClass('hidden');
-    $prevBtn.addClass('disabled');
+    // $fields.addClass('hidden').eq(0).removeClass('hidden');
+    // $prevBtn.addClass('disabled');
 
     $fields.find('select').each(function(){
       var name = this.name;
@@ -101,15 +101,19 @@ var haQuest = (function() {
 
     for (var property in result) {
       if (result.hasOwnProperty(property)) {
-        var value = result[property];
+        var propertyName = '№ '+(''+property).substring(2);
+        // var value = encodeURI(result[property]);
+        var value = result[property].replace(/</g, "&lt;").replace(/>/g, "&gt;");;
         if (+value === 0) {
           value = "нет ответа";
         }
+        console.log(value);
         // console.log(value, typeof value);
-        resultString = resultString + '<tr><td>'+property+'</td><td>'+ value +'</td></tr>';
+        resultString = resultString + '<tr><td>'+propertyName+'</td><td>'+ value +'</td></tr>';
       }
     }
 
+    console.log(resultString);
     resultString += '</table>';
     // console.log(resultString);
     $panel.append(resultString);
