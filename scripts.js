@@ -36,7 +36,8 @@ var haQuest = (function() {
 
     $fields.find('select').each(function(){
       var name = this.name;
-      result[name] = 0;
+      var value = this.value || 0;
+      result[name] = value;
     });
   }
 
@@ -100,7 +101,10 @@ var haQuest = (function() {
 
     for (var property in result) {
       if (result.hasOwnProperty(property)) {
-        var value = result[property] || "нет ответа";
+        var value = result[property];
+        if (+value === 0) {
+          value = "нет ответа";
+        }
         // console.log(value, typeof value);
         resultString = resultString + '<tr><td>'+property+'</td><td>'+ value +'</td></tr>';
       }
