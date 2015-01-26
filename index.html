@@ -61,6 +61,11 @@
 
 <body>
   <div class="page-wrap">
+    <div class="panel" id="panel">
+      <a href="#" id="resetBtn" class="panel__btn hidden">Заново</a>
+      <a href="#" id="prevBtn" class="panel__btn">Предыдущий вопрос</a>
+      <a href="#" id="nextBtn" class="panel__btn">Следующий вопрос</a>
+    </div>
     <form class="quest" id="bs-item">
       <fieldset class="quest__challenge" id="bs-item-ch1">
         <div class="quest__question-box quest__question-box--bottom-right quest__question-box--outer">
@@ -75,7 +80,7 @@
           </div>
         </div>
       </fieldset>
-      <fieldset class="quest__challenge" id="bs-item-ch2">
+      <fieldset class="quest__challenge " id="bs-item-ch2">
         <div class="quest__question-box quest__question-box--bottom-right quest__question-box--outer">
           <label class="quest__label">Дайте название этому блоку</label>
           <div class="quest__select-wrap">
@@ -88,7 +93,7 @@
           </div>
         </div>
       </fieldset>
-      <fieldset class="quest__challenge" id="bs-item-ch3">
+      <fieldset class="quest__challenge " id="bs-item-ch3">
         <div class="quest__question-box quest__question-box--bottom-right quest__question-box--outer">
           <label class="quest__label">Выберите правильный тег</label>
           <div class="quest__select-wrap">
@@ -120,7 +125,7 @@
         <div class="quest__question-box quest__question-box--bottom-right quest__question-box--outer">
           <label class="quest__label">Выберите последовательность тегов</label>
           <div class="quest__select-wrap">
-            <select class="quest__select" name="ch3">
+            <select class="quest__select" name="ch5">
               <option value="0" selected></option>
               <option value="div">div > (a + a + a ...)</option>
               <option value="p">(p > span) + (p > span) + (p > span) ...</option>
@@ -131,7 +136,7 @@
       </fieldset>
     </form>
   </div>
-  <script src="bower_components/zepto/zepto.min.js"></script>
+  <script src="bower_components/zepto/zepto.js"></script>
   <script src="scripts.js"></script>
 </body>
 </html>

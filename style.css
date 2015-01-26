@@ -25,6 +25,7 @@ body {
   background-color: #eee;
   background-position: top center;
   position: relative;
+  z-index: 10;
   box-shadow: 0 0 1px #000;
 }
 .quest + .quest {
@@ -38,6 +39,7 @@ body {
   border: 1px solid #fff;
   box-shadow: 0 0 1px #000;
   background-color: rgba(0, 0, 0, 0.2);
+  transition: opacity .3s;
 }
 .quest__question-box {
   position: absolute;
@@ -107,4 +109,50 @@ body {
 .quest__select {
   width: 100%;
   margin: 0;
+}
+.panel {
+  position: fixed;
+  z-index: 20;
+  top: 20px;
+  left: 20px;
+  width: 160px;
+  background-color: #fff;
+  text-align: center;
+  padding: 6px 0 10px;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+}
+.panel__btn {
+  display: block;
+  text-align: center;
+  margin: 0;
+  color: #333;
+}
+.panel__btn + .panel__btn {
+  margin-top: 5px;
+}
+.panel__btn:hover {
+  text-decoration: none;
+}
+.panel__btn:active,
+.panel__btn.disabled {
+  opacity: .6;
+}
+.panel__btn.disabled {
+  pointer-events: none;
+}
+.panel__btn.hidden {
+  position: absolute;
+}
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+}
+.results {
+  margin: 10px auto 0;
+  text-align: left;
+}
+.results td:first-child {
+  min-width: 30px;
+  padding-right: 5px;
+  text-align: right;
 }
